@@ -1,6 +1,7 @@
 👋 Hi, I'm Nikhil Rasmalla!
 
-🔐 Cybersecurity Professional | 🧠 AI Researcher | 📊 Data AnalystMaster’s graduate in Advanced Computer Science from the University of Liverpool with over 19 months of hands-on technical experience. My expertise lies in cybersecurity, artificial intelligence, and data analytics, supported by globally recognized certifications from Oracle, Fortinet, ISC2 (Certified in Cybersecurity - CC), and EC-Council (C|CT in-training).
+🔐 Cybersecurity Researcher
+Master’s graduate in Advanced Computer Science from the University of Liverpool with over 19 months of hands-on technical experience. My expertise lies in cybersecurity, artificial intelligence, and data analytics, supported by globally recognized certifications from Oracle, Fortinet, ISC2 (Certified in Cybersecurity - CC), and EC-Council (C|CT in-training).
 
 🔍 Candidate Highlights
 
